@@ -4,48 +4,48 @@ let playlist = [
         'Black Album',
         'Jay-Z',
         '2004',
-        '1.jpg'
+        'black-album.jpg'
     ],
     [
         'All The Way UP',
         'Plata O Plomo',
         'Fat Joe',
         '2016',
-        '2.jpg'
+        'plata-o-promo.jpg'
     ],
     [
         'Me & My Girlsfriend',
-        ' The Don Killuminati: The 7 Day Theory',
+        'The Don Killuminati: The 7 Day Theory',
         '2 Pac',
         '1996',
-        '3.jpg'
+        '7-day-theory.jpg'
     ],
     [
         'Runnin (Dying To Live)',
-        'Resurrection ',
+        'Resurrection',
         '2 Pac',
         '2003',
-        '4.jpg'
+        'resurrection.jpg'
     ],
     [
         'Break Ya Neck',
         'Genesis',
         'Busta Rhymes',
         '2001',
-        '5.jpg'
+        'genesis.jpg'
     ],
     [
         'Easy Skanking',
         'Kaya',
         'Bob Marley',
         '1978',
-        '6.jpg'
+        'kaya.jpg'
     ],
     [
         'A Milli',
         'The carter IV',
         'Lil Wayne',
         '2011',
-        '7.jpg'
+        'the-carter-4.jpg'
     ]
 ];
