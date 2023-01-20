@@ -1,0 +1,53 @@
+{
+    "playlist" : [
+        {
+            "title":"Numb/Encore",
+            "album":"Black Album",
+            "artist":"Jay-Z",
+            "year":"2004",
+            "poster":"black-album.jpg"
+        },
+        {
+            "title":"All The Way UP",
+            "album":"Plata O Plomo",
+            "artist":"Fat Joe",
+            "year":"2016",
+            "poster":"plata-o-promo.jpg"
+        },
+        {
+            "title":"Me & My Girlsfriend",
+            "album":"The Don Killuminati: The 7 Day Theory",
+            "artist":"2 Pac",
+            "year":"1996",
+            "poster":"7-day-theory.jpg"
+        },
+        {
+            "title":"Runnin (Dying To Live)",
+            "album":"Resurrection",
+            "artist":"2 Pac",
+            "year":"2003",
+            "poster":"resurrection.jpg"
+        },
+        {
+            "title":"Break Ya Neck",
+            "album":"Genesis",
+            "artist":"Busta Rhymes",
+            "year":"2001",
+            "poster":"genesis.jpg"
+        },
+        {
+            "title":"Easy Skanking",
+            "album":"Kaya",
+            "artist":"Bob Marley",
+            "year":"1978",
+            "poster":"kaya.jpg"
+        },
+        {
+            "title":"A Milli",
+            "album":"The carter IV",
+            "artist":"Lil Wayne",
+            "year":"2011",
+            "poster":"the-carter-4.jpg"
+        }
+    ]
+}
